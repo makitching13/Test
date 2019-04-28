@@ -1,0 +1,11 @@
+To do
+
+- Create toolbar at the top for each app
+- Create Blog app (Django for girls)
+- Create Home Page
+- Manage admin site
+- Work out how to deploy with MySQL rather than SQLITE
+- Refresh on how to use PythonAnywhere - most likely system, certainty of payment unlike AWS. Much easier to set up. Not as reliable.
+- Find out hosting and domain costs
+- Move project on GitHub
+- Work out how to manage pictures in static files in Django
